@@ -3,7 +3,7 @@ Python implementation of popular python commands
 
 #Commands supported
 history
-ls  
+ls  \\udheud
 pwd  
 cd  
 exit  
